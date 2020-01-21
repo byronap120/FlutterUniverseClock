@@ -1,4 +1,4 @@
-# Flutter Clock Challenge (Universal Clock)
+# Flutter Clock Challenge (Universe Clock)
 
 Welcome to Flutter Clock!
 
@@ -9,7 +9,7 @@ See [flutter.dev/clock](https://flutter.dev/clock) for how to get started, submi
 
 For this challenge, I create a digital clock floating on the universe with a black hole as a background. The idea is that time is constantly consumed by the black hole.
 
-For the numbers animations, I used [Flutter animation](https://flutter.dev/docs/development/ui/animations/tutorial),  for the animation of the stars, black hole, and comets I used Flare animations using [Rive](https://rive.app/).
+For the numbers animations, I used [Flutter animation](https://flutter.dev/docs/development/ui/animations/tutorial).  For the animation of the stars, black hole, and comets I used Flare animations created on [Rive](https://rive.app/).
 Here's the final submission for the clock challenge:
 
 <img src='https://i.imgur.com/SCUugFK.gif' title='Universal Clock' width='' alt='Universal Clock' />
