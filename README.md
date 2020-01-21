@@ -1,15 +1,34 @@
-# Flutter Clock
+# Flutter Clock Challenge (Universal Clock)
 
 Welcome to Flutter Clock!
 
 See [flutter.dev/clock](https://flutter.dev/clock) for how to get started, submission requirements, contest rules, and FAQs.
 
-See a [live demo](https://maryx.github.io/flutter_clock) with Flutter for Web!
 
-Example [Analog Clock](analog_clock)
+## Final submission  
 
-<img src='analog_clock/analog.gif' width='350'>
+For this challenge, I create a digital clock floating on the universe with a black hole as a background. The idea is that time is constantly consumed by the black hole.
 
-Example [Digital Clock](digital_clock)
+For the numbers animations, I used [Flutter animation](https://flutter.dev/docs/development/ui/animations/tutorial),  for the animation of the stars, black hole, and comets I used Flare animations using [Rive](https://rive.app/).
+Here's the final submission for the clock challenge:
 
-<img src='digital_clock/digital.gif' width='350'>
+<img src='https://i.imgur.com/SCUugFK.gif' title='Universal Clock' width='' alt='Universal Clock' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
+
+## License
+
+    Copyright [2020] [Byron Ajin]
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
