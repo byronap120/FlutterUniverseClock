@@ -11,14 +11,21 @@ dependencies:
   flutter_clock_helper:
     path: ../flutter_clock_helper
   cupertino_icons: ^0.1.2
+  flare_flutter: ^2.0.1
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
 
 flutter:
+  assets:
+    - assets/
+    - assets/animations/
   uses-material-design: true
   fonts:
     - family: PressStart2P
       fonts:
         - asset: third_party/PressStart2P-Regular.ttf
+
+
+
